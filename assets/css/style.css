@@ -8,7 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@import url("https://allyoucan.cloud/cdn/icofont/1.0.1/icofont.css");
+@import url("./icofont.min.css");
 @import url("https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css");
 
 body {
@@ -765,9 +765,9 @@ section {
   color: #2c4964;
 }
 
-.faq .faq-list a.collapsed:hover {
-  /* color: #15c26e; */
-}
+/* .faq .faq-list a.collapsed:hover {
+   color: #15c26e; 
+} */
 
 .faq .faq-list a.collapsed .icon-show {
   display: inline-block;
